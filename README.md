@@ -27,13 +27,3 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark" />
   </a>
 </p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joshsawyer&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshsawyer&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B" height="165"/>
-</p>
